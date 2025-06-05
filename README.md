@@ -1,6 +1,6 @@
 <h1 align="center">Seja bem vindo(a) ao meu perfil!</h1>
 
-Olá! Ssou desenvolvedor Full-Stack e estou sempre em busca de inovação e qualidade nos projetos. Tenho paixão por tecnologia!
+Olá! Sou desenvolvedor Full-Stack e estou sempre em busca de inovação e qualidade nos projetos. Tenho paixão por tecnologia!
 
 🖥️ Tech Skills
 
